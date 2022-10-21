@@ -1,21 +1,21 @@
 # Data_AI_Applied
 
-國立政治大學 National ChengChi University
-1111_701893001/751842001_人工智慧應用專題
-個人課程作業存放處
+*國立政治大學 National ChengChi University
+1111_701893001/751842001_人工智慧應用專題_個人課程作業存放處*
 
 ---
 
 ## Usage
 
-- 將每週的jupyter notebook上傳至colab，並將同層資料夾的隨附檔案上傳至kernel所在儲存空間應即可使用。
+- 將每週的jupyter notebook上傳至colab，並將同層資料夾的除`note`資料夾外的隨附檔案上傳至kernel所在儲存空間應即可使用。
+  - `note` 資料夾用於存放對應當週的簡報，以便編寫作業時查看，也可能會存放其他個人筆記。
 
 ---
 
 ## Environment
 
 - 所有jupyter notebook皆編輯並運行於 **Python 3.9.7** installed by **Anaconda** on **Ubuntu 20.04/22.04 LTS**.
-- 如用低於 **Python 3.9.7** (**< Python 3.9.7**) 可能會有版本不相容的問題
+- 如用低於 **Python 3.9.7** (**< Python 3.9.7**) 可能會有版本不相容的問題。
 - 所有jupyter notebook的開頭都應有環境檢查，用以確認是否為Colab並準備環境，如下列
 
     ```python
